@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reacttour/static/css/main.cdbce275.chunk.css",
+    "main.js": "/reacttour/static/js/main.37ac0b2e.chunk.js",
+    "main.js.map": "/reacttour/static/js/main.37ac0b2e.chunk.js.map",
+    "runtime-main.js": "/reacttour/static/js/runtime-main.671e33ae.js",
+    "runtime-main.js.map": "/reacttour/static/js/runtime-main.671e33ae.js.map",
+    "static/js/2.236c9eb4.chunk.js": "/reacttour/static/js/2.236c9eb4.chunk.js",
+    "static/js/2.236c9eb4.chunk.js.map": "/reacttour/static/js/2.236c9eb4.chunk.js.map",
+    "static/js/3.2b1edbcd.chunk.js": "/reacttour/static/js/3.2b1edbcd.chunk.js",
+    "static/js/3.2b1edbcd.chunk.js.map": "/reacttour/static/js/3.2b1edbcd.chunk.js.map",
+    "index.html": "/reacttour/index.html",
+    "static/css/main.cdbce275.chunk.css.map": "/reacttour/static/css/main.cdbce275.chunk.css.map",
+    "static/js/2.236c9eb4.chunk.js.LICENSE.txt": "/reacttour/static/js/2.236c9eb4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.671e33ae.js",
+    "static/js/2.236c9eb4.chunk.js",
+    "static/css/main.cdbce275.chunk.css",
+    "static/js/main.37ac0b2e.chunk.js"
+  ]
+}
